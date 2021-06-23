@@ -1,3 +1,6 @@
+# First react app
+This project is the result of following [this tutorial.](https://reactjs.org/tutorial/tutorial.html) I enjoyed following it to play around with the basics.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
